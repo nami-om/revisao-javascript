@@ -6,3 +6,5 @@ function anoAtual() {
 }
 
 anoAtual();
+
+export default exercicio12;

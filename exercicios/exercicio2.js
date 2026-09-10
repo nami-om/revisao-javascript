@@ -10,3 +10,4 @@ console.log(a + "-" + b + " = " + subtracao)
 console.log(a + "x" + b + " = " + multiplicacao)
 console.log(a + "/" + b + " = " + divisao)
 
+export default exercicio2;

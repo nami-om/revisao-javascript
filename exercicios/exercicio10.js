@@ -13,3 +13,5 @@ let palavra
 palavra = prompt("Digite a palavra")
 validar(palavra)
 console.log(resultado)
+
+export default exercicio10;

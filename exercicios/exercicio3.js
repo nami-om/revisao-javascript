@@ -6,3 +6,5 @@ if (numero > 10) {
 } else {
     console.log("O número é menor ou igual a 10")
 }
+
+export default exercicio3;

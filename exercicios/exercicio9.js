@@ -4,3 +4,5 @@ function somar(numeroUm, numeroDois) {
 
 let resultado = somar(5, 8)
 console.log(resultado)
+
+export default exercicio9;

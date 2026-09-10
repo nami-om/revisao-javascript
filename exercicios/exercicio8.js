@@ -7,3 +7,5 @@ console.log(frutas)
 
 frutas.pop()
 console.log(frutas)
+
+export default exercicio8;

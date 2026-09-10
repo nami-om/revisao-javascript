@@ -1,9 +1,11 @@
 let numero = 0
 
 numero = Number(prompt("Digite um número:"))
-if (numero %2 === 0) {
+if (numero % 2 === 0) {
     console.log(numero + " é par"
     )
-}else{ 
+} else {
     console.log(numero + " é impar")
 }
+
+export default exercicio6;

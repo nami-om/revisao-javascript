@@ -6,3 +6,5 @@ if (idade >= 18) {
 } else {
     console.log("Menor de idade")
 }
+
+export default exercicio4;
